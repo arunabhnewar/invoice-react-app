@@ -1,0 +1,27 @@
+body {
+  background: #f8f9fa;
+}
+
+ul li {
+  list-style: none;
+}
+
+.owner_name,
+.client_name {
+  text-transform: uppercase;
+}
+
+input {
+  padding: 10px 15px !important;
+  width: 100% !important;
+}
+
+button {
+  background: #30336b !important;
+  color: #fff !important;
+  width: 150px;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+}
